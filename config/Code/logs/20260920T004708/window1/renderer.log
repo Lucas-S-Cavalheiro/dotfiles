@@ -1,0 +1,19 @@
+2026-09-20 00:47:10.037 [info] [RemoteAgentHost] Reconciling: desired=[], current=[]
+2026-09-20 00:47:10.066 [warning] Creation of workbench contribution 'workbench.contrib.agentHostChatDebug' took 32ms.
+2026-09-20 00:47:10.120 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-20 00:47:10.756 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-20 00:47:10.995 [info] Started local extension host with pid 32586.
+2026-09-20 00:47:12.276 [info] [AgentHost:renderer] Protocol connection established; clientId=e69812f9-e855-41d2-8d9f-c7058590e282
+2026-09-20 00:47:13.711 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-20 00:47:14.406 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-20 00:47:15.039 [error] [Extension Host] (node:32586) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-20 00:47:17.619 [error] [Extension Host] (node:32586) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2026-09-20 00:47:18.561 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-20 00:47:18.953 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-20 00:47:18.999 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-20 00:47:19.657 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-20 00:47:19.665 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-20 00:47:19.751 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-20 00:47:21.555 [info] [perf] Render performance baseline is 71ms
+2026-09-20 00:54:50.331 [error] An unknown error occurred. Please consult the log for more details.

@@ -1,0 +1,84 @@
+2026-09-20 00:43:31.657 [info] Getting Manifest... ritwickdey.liveserver
+2026-09-20 00:43:32.113 [info] Installing extension: ritwickdey.liveserver {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:43:35.885 [info] Extension signature verification result for ritwickdey.liveserver: Success. Internal Code: 0. Executed: true. Duration: 2639ms.
+2026-09-20 00:43:36.365 [info] Getting Manifest... esbenp.prettier-vscode
+2026-09-20 00:43:36.480 [info] Installing extension: esbenp.prettier-vscode {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:43:38.754 [info] Extension signature verification result for esbenp.prettier-vscode: Success. Internal Code: 0. Executed: true. Duration: 1556ms.
+2026-09-20 00:43:39.088 [info] Extracted extension to file:///home/lucky/.vscode/extensions/esbenp.prettier-vscode-12.4.0: esbenp.prettier-vscode
+2026-09-20 00:43:39.102 [info] Renamed to /home/lucky/.vscode/extensions/esbenp.prettier-vscode-12.4.0
+2026-09-20 00:43:39.147 [info] Extension installed successfully: esbenp.prettier-vscode vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:43:41.920 [info] Extracted extension to file:///home/lucky/.vscode/extensions/ritwickdey.liveserver-5.7.10: ritwickdey.liveserver
+2026-09-20 00:43:42.159 [info] Renamed to /home/lucky/.vscode/extensions/ritwickdey.liveserver-5.7.10
+2026-09-20 00:43:42.180 [info] Extension installed successfully: ritwickdey.liveserver vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:43:43.605 [info] Getting Manifest... dbaeumer.vscode-eslint
+2026-09-20 00:43:43.880 [info] Installing extension: dbaeumer.vscode-eslint {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:43:46.285 [info] Extension signature verification result for dbaeumer.vscode-eslint: Success. Internal Code: 0. Executed: true. Duration: 1767ms.
+2026-09-20 00:43:46.318 [info] Extracted extension to file:///home/lucky/.vscode/extensions/dbaeumer.vscode-eslint-3.0.34: dbaeumer.vscode-eslint
+2026-09-20 00:43:46.328 [info] Renamed to /home/lucky/.vscode/extensions/dbaeumer.vscode-eslint-3.0.34
+2026-09-20 00:43:46.346 [info] Extension installed successfully: dbaeumer.vscode-eslint vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:43:47.648 [info] Getting Manifest... eamodio.gitlens
+2026-09-20 00:43:48.062 [info] Installing extension: eamodio.gitlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:43:49.870 [info] Extension signature verification result for eamodio.gitlens: Success. Internal Code: 0. Executed: true. Duration: 1137ms.
+2026-09-20 00:43:50.304 [info] Extracted extension to file:///home/lucky/.vscode/extensions/eamodio.gitlens-19.2.0: eamodio.gitlens
+2026-09-20 00:43:50.347 [info] Renamed to /home/lucky/.vscode/extensions/eamodio.gitlens-19.2.0
+2026-09-20 00:43:50.439 [info] Extension installed successfully: eamodio.gitlens vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:43:57.506 [info] Getting Manifest... formulahendry.code-runner
+2026-09-20 00:43:58.075 [info] Installing extension: formulahendry.code-runner {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:44:00.978 [info] Extension signature verification result for formulahendry.code-runner: Success. Internal Code: 0. Executed: true. Duration: 1884ms.
+2026-09-20 00:44:01.134 [info] Extracted extension to file:///home/lucky/.vscode/extensions/formulahendry.code-runner-0.12.2: formulahendry.code-runner
+2026-09-20 00:44:01.152 [info] Renamed to /home/lucky/.vscode/extensions/formulahendry.code-runner-0.12.2
+2026-09-20 00:44:01.214 [info] Extension installed successfully: formulahendry.code-runner vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:44:05.733 [info] Getting Manifest... github.vscode-pull-request-github
+2026-09-20 00:44:06.040 [info] Installing extension: github.vscode-pull-request-github {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:44:08.604 [info] Extension signature verification result for github.vscode-pull-request-github: Success. Internal Code: 0. Executed: true. Duration: 1866ms.
+2026-09-20 00:44:08.800 [info] Extracted extension to file:///home/lucky/.vscode/extensions/github.vscode-pull-request-github-0.166.1: github.vscode-pull-request-github
+2026-09-20 00:44:08.826 [info] Renamed to /home/lucky/.vscode/extensions/github.vscode-pull-request-github-0.166.1
+2026-09-20 00:44:08.894 [info] Extension installed successfully: github.vscode-pull-request-github vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:44:11.839 [info] Getting Manifest... ecmel.vscode-html-css
+2026-09-20 00:44:12.141 [info] Installing extension: ecmel.vscode-html-css {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:44:13.596 [info] Getting Manifest... formulahendry.auto-rename-tag
+2026-09-20 00:44:13.754 [info] Installing extension: formulahendry.auto-rename-tag {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:44:14.199 [info] Extension signature verification result for ecmel.vscode-html-css: Success. Internal Code: 0. Executed: true. Duration: 1506ms.
+2026-09-20 00:44:14.210 [info] Extracted extension to file:///home/lucky/.vscode/extensions/ecmel.vscode-html-css-2.0.14: ecmel.vscode-html-css
+2026-09-20 00:44:14.218 [info] Renamed to /home/lucky/.vscode/extensions/ecmel.vscode-html-css-2.0.14
+2026-09-20 00:44:14.252 [info] Extension installed successfully: ecmel.vscode-html-css vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:44:16.058 [info] Extension signature verification result for formulahendry.auto-rename-tag: Success. Internal Code: 0. Executed: true. Duration: 1336ms.
+2026-09-20 00:44:16.096 [info] Extracted extension to file:///home/lucky/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10: formulahendry.auto-rename-tag
+2026-09-20 00:44:16.109 [info] Renamed to /home/lucky/.vscode/extensions/formulahendry.auto-rename-tag-0.1.10
+2026-09-20 00:44:16.153 [info] Extension installed successfully: formulahendry.auto-rename-tag vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:45:49.300 [info] Getting Manifest... formulahendry.auto-close-tag
+2026-09-20 00:45:49.555 [info] Installing extension: formulahendry.auto-close-tag {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:45:51.569 [info] Extension signature verification result for formulahendry.auto-close-tag: Success. Internal Code: 0. Executed: true. Duration: 1532ms.
+2026-09-20 00:45:51.606 [info] Extracted extension to file:///home/lucky/.vscode/extensions/formulahendry.auto-close-tag-0.5.15: formulahendry.auto-close-tag
+2026-09-20 00:45:51.615 [info] Renamed to /home/lucky/.vscode/extensions/formulahendry.auto-close-tag-0.5.15
+2026-09-20 00:45:51.662 [info] Extension installed successfully: formulahendry.auto-close-tag vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:45:51.665 [info] Getting Manifest... donjayamanne.githistory
+2026-09-20 00:45:52.148 [info] Installing extension: donjayamanne.githistory {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:45:55.200 [info] Extension signature verification result for donjayamanne.githistory: Success. Internal Code: 0. Executed: true. Duration: 1199ms.
+2026-09-20 00:45:55.278 [info] Extracted extension to file:///home/lucky/.vscode/extensions/donjayamanne.githistory-0.6.20: donjayamanne.githistory
+2026-09-20 00:45:55.290 [info] Renamed to /home/lucky/.vscode/extensions/donjayamanne.githistory-0.6.20
+2026-09-20 00:45:55.334 [info] Extension installed successfully: donjayamanne.githistory vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:45:57.577 [info] Getting Manifest... mhutchie.git-graph
+2026-09-20 00:45:57.928 [info] Installing extension: mhutchie.git-graph {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:45:59.841 [info] Getting Manifest... bradlc.vscode-tailwindcss
+2026-09-20 00:46:00.040 [info] Installing extension: bradlc.vscode-tailwindcss {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:46:00.244 [info] Extension signature verification result for mhutchie.git-graph: Success. Internal Code: 0. Executed: true. Duration: 1570ms.
+2026-09-20 00:46:00.559 [info] Extracted extension to file:///home/lucky/.vscode/extensions/mhutchie.git-graph-1.30.0: mhutchie.git-graph
+2026-09-20 00:46:00.574 [info] Renamed to /home/lucky/.vscode/extensions/mhutchie.git-graph-1.30.0
+2026-09-20 00:46:00.618 [info] Extension installed successfully: mhutchie.git-graph vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:46:02.626 [info] Extension signature verification result for bradlc.vscode-tailwindcss: Success. Internal Code: 0. Executed: true. Duration: 1416ms.
+2026-09-20 00:46:02.732 [info] Extracted extension to file:///home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0: bradlc.vscode-tailwindcss
+2026-09-20 00:46:02.745 [info] Renamed to /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0
+2026-09-20 00:46:02.794 [info] Extension installed successfully: bradlc.vscode-tailwindcss vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:46:15.830 [info] Getting Manifest... usernamehw.errorlens
+2026-09-20 00:46:16.160 [info] Installing extension: usernamehw.errorlens {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:46:18.276 [info] Extension signature verification result for usernamehw.errorlens: Success. Internal Code: 0. Executed: true. Duration: 1292ms.
+2026-09-20 00:46:18.322 [info] Extracted extension to file:///home/lucky/.vscode/extensions/usernamehw.errorlens-3.28.0: usernamehw.errorlens
+2026-09-20 00:46:18.337 [info] Renamed to /home/lucky/.vscode/extensions/usernamehw.errorlens-3.28.0
+2026-09-20 00:46:18.380 [info] Extension installed successfully: usernamehw.errorlens vscode-userdata:/home/lucky/.vscode/extensions/extensions.json
+2026-09-20 00:46:46.653 [info] Getting Manifest... miguelsolorio.min-theme
+2026-09-20 00:46:47.082 [info] Installing extension: miguelsolorio.min-theme {"isMachineScoped":false,"installPreReleaseVersion":false,"pinned":false,"profileLocation":{"$mid":1,"external":"vscode-userdata:/home/lucky/.vscode/extensions/extensions.json","path":"/home/lucky/.vscode/extensions/extensions.json","scheme":"vscode-userdata"},"isBuiltin":false,"isApplicationScoped":false,"productVersion":{"version":"1.138.0","date":"2026-09-15T07:24:32Z"}}
+2026-09-20 00:46:49.168 [info] Extension signature verification result for miguelsolorio.min-theme: Success. Internal Code: 0. Executed: true. Duration: 1429ms.
+2026-09-20 00:46:49.231 [info] Extracted extension to file:///home/lucky/.vscode/extensions/miguelsolorio.min-theme-1.5.0: miguelsolorio.min-theme
+2026-09-20 00:46:49.242 [info] Renamed to /home/lucky/.vscode/extensions/miguelsolorio.min-theme-1.5.0
+2026-09-20 00:46:49.298 [info] Extension installed successfully: miguelsolorio.min-theme vscode-userdata:/home/lucky/.vscode/extensions/extensions.json

@@ -1,0 +1,33 @@
+2026-09-20 20:47:28.357 [info] [RemoteAgentHost] Reconciling: desired=[], current=[]
+2026-09-20 20:47:28.387 [warning] Creation of workbench contribution 'workbench.contrib.agentHostChatDebug' took 32ms.
+2026-09-20 20:47:28.452 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-20 20:47:29.130 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey=undefined conversationKey=undefined modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:47:30.228 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:47:30.276 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-20 20:47:30.512 [info] Started local extension host with pid 51920.
+2026-09-20 20:47:30.987 [info] [AgentHost:renderer] Protocol connection established; clientId=8bf6996d-6e7a-4591-befa-35af136c5d42
+2026-09-20 20:47:31.975 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:47:32.542 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-20 20:47:33.053 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-20 20:47:35.949 [error] [Extension Host] (node:51920) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-20 20:47:36.857 [error] [Extension Host] (node:51920) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+2026-09-20 20:47:37.235 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-20 20:47:37.758 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-20 20:47:37.866 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-20 20:47:37.884 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-20 20:47:37.953 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:47:38.023 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:47:38.072 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:47:38.083 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-20 20:47:39.074 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:47:39.106 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-20 20:47:40.484 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:47:41.045 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:47:41.174 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:47:41.552 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:47:42.018 [info] [perf] Render performance baseline is 192ms
+2026-09-20 20:48:18.092 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:50:05.210 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:50:51.533 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"
+2026-09-20 20:51:03.731 [info] [ChatModelSelection] event=no-model-at-toolbar-build surface="workbench" sessionKey="local" conversationKey="vscode-chat-session://local/MmZlZTIxODItYTBkNS00MmYzLWFhZjYtNDc2MGFlY2VlMTg2" modelTarget=undefined storageKey="chat.currentLanguageModel.panel" widgetViewKind="view"

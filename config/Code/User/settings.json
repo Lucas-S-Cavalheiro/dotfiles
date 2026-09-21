@@ -1,0 +1,9 @@
+{
+    "workbench.colorTheme": "Min Dark",
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "explorer.confirmDragAndDrop": false,
+    "explorer.confirmDelete": false,
+    "explorer.confirmPasteNative": false
+}

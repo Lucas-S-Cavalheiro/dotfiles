@@ -1,0 +1,34 @@
+2026-09-20 00:23:37.720 [info] Agent Host process started successfully
+2026-09-20 00:23:37.868 [info] AgentService initialized
+2026-09-20 00:23:37.886 [info] Registering agent provider: copilotcli
+2026-09-20 00:23:37.896 [info] Registering agent provider: claude
+2026-09-20 00:23:37.925 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-20 00:23:37.927 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-20 00:23:37.965 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-20 00:23:37.982 [info] [Claude] Models refreshed (merged). Count: 0, 
+2026-09-20 00:23:37.985 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-20 00:23:37.991 [info] [ProtocolServer] Initialize: clientId=5716001a-ed69-4328-934e-8e4c10e927e4, protocolVersions=[0.9.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-09-20 00:23:38.171 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ah-e84a8ca73cff/edGLiZLBpX78RYdwWIx4gg.sock
+2026-09-20 00:23:38.179 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-20 00:23:38.244 [info] [CommandAutoApprover] Tree-sitter initialized (bash=available, powershell=available)
+2026-09-20 00:23:38.572 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-20 00:23:38.600 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-20 00:23:38.604 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-20 00:23:38.609 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-20 00:23:38.611 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-20 00:23:38.626 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-20 00:23:43.108 [info] [AgentService] pruned 0 stale external session row(s) older than 30 days
+2026-09-20 00:23:43.109 [info] [Copilot] Listing discoverable chats...
+2026-09-20 00:23:43.118 [info] [Copilot] Starting CopilotClient...
+2026-09-20 00:23:43.132 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-09-20 00:23:43.404 [info] [Copilot] Resolved CLI path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-09-20 00:23:43.451 [info] [Claude] SDK not downloaded yet; deferring chat discovery
+2026-09-20 00:23:44.785 [info] [Copilot] CopilotClient started successfully
+2026-09-20 00:23:44.788 [info] [Copilot] Listed 0 SDK session(s) for discoverable chats
+2026-09-20 00:23:44.789 [info] [Copilot] Chat discovery: 0 SDK session(s) -> 0 external, 0 adoptable legacy extension-host, 0 suppressed adoptable legacy extension-host, 0 suppressed archived legacy extension-host, 0 already known to Agent Host, 0 without a working directory, 0 with unsupported or missing client name, 0 outside the import window, 0 without repository metadata, 0 failed to classify (adopt legacy extension-host chats: false)
+2026-09-20 00:43:31.518 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-20 00:46:56.226 [info] [ProtocolServer] Client disconnected: 5716001a-ed69-4328-934e-8e4c10e927e4, subscriptions=1
+2026-09-20 00:46:56.240 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-20 00:46:56.241 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-20 00:46:56.248 [info] AgentService: shutting down all providers...
+2026-09-20 00:46:56.249 [info] [Copilot] Shutting down...

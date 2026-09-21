@@ -1,0 +1,177 @@
+Locating server…
+Checking if /home/lucky/.config/waybar/colors/one-dark.css may be Tailwind-related…
+Checking if /home/lucky/.config/waybar/colors/style.css may be Tailwind-related…
+Checking if /home/lucky/.config/waybar/colors/style.css may be Tailwind-related…
+Booting server...
+Setting up server…
+Listening for messages…
+Searching for Tailwind CSS projects in the workspace's folders.
+{"tailwind":{"version":"4.1.18","features":["css-at-theme","layer:base","content-list","source-inline","source-not"],"isDefaultVersion":true},"path":"/home/lucky/.config/waybar/colors/style.css"}
+[Global] Creating projects: [{"folder":"/home/lucky/.config/waybar","config":"/home/lucky/.config/waybar/colors/style.css","selectors":[{"pattern":"/home/lucky/.config/waybar/colors/style.css","priority":0},{"pattern":"/home/lucky/.config/waybar/colors/**","priority":2},{"pattern":"/home/lucky/.config/waybar/**","priority":4},{"pattern":"/home/lucky/.config/waybar/**","priority":5}],"user":false,"tailwind":{"version":"4.1.18","features":["css-at-theme","layer:base","content-list","source-inline","source-not"],"isDefaultVersion":true}}]
+[Global] Preparing projects...
+[Global] Initializing projects...
+[colors/style.css] Initializing...
+[Global] Adding watch patterns: /home/lucky/.config/waybar/colors/style.css, /home/lucky/.config/waybar/colors, /home/lucky/.config/waybar
+[colors/style.css] Failed to load workspace modules.
+[colors/style.css] Using bundled version of `tailwindcss`: v4.1.18
+[colors/style.css] Building...
+[Error - 01:21:57] Unable to load stylesheet: colors/one-dark.css Error: Can't resolve 'colors/one-dark.css' in '/home/lucky/.config/waybar/colors'
+    at H (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:130:7155)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:131:713
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:16:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1) {
+  details: "resolve 'colors/one-dark.css' in '/home/lucky/.config/waybar/colors'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in /home/lucky/.config/waybar/colors or above\n' +
+    '  No description file found in /home/lucky/.config/waybar/colors/colors or above\n' +
+    '  no extension\n' +
+    "    /home/lucky/.config/waybar/colors/colors/one-dark.css doesn't exist\n" +
+    '  .css\n' +
+    "    /home/lucky/.config/waybar/colors/colors/one-dark.css.css doesn't exist\n" +
+    '  as directory\n' +
+    "    /home/lucky/.config/waybar/colors/colors/one-dark.css doesn't exist\n" +
+    '  resolve as module\n' +
+    "    /home/lucky/.config/waybar/colors/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/.config/waybar/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/.config/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/node_modules doesn't exist or is not a directory\n" +
+    "    /home/node_modules doesn't exist or is not a directory\n" +
+    "    /node_modules doesn't exist or is not a directory"
+}
+[Global] Initialized 1 projects
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+[Error - 01:22:08] Unable to load stylesheet: colors/one-dark.css Error: Can't resolve 'colors/one-dark.css' in '/home/lucky/.config/waybar/colors'
+    at H (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:130:7155)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:131:713
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:16:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1) {
+  details: "resolve 'colors/one-dark.css' in '/home/lucky/.config/waybar/colors'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in /home/lucky/.config/waybar/colors or above\n' +
+    '  No description file found in /home/lucky/.config/waybar/colors/colors or above\n' +
+    '  no extension\n' +
+    "    /home/lucky/.config/waybar/colors/colors/one-dark.css doesn't exist\n" +
+    '  .css\n' +
+    "    /home/lucky/.config/waybar/colors/colors/one-dark.css.css doesn't exist\n" +
+    '  as directory\n' +
+    "    /home/lucky/.config/waybar/colors/colors/one-dark.css doesn't exist\n" +
+    '  resolve as module\n' +
+    "    /home/lucky/.config/waybar/colors/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/.config/waybar/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/.config/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/node_modules doesn't exist or is not a directory\n" +
+    "    /home/node_modules doesn't exist or is not a directory\n" +
+    "    /node_modules doesn't exist or is not a directory"
+}
+---- RELOADED IN 129.00ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+[Error - 01:22:10] Unable to load stylesheet: colors/one-dark.css Error: Can't resolve 'colors/one-dark.css' in '/home/lucky/.config/waybar/colors'
+    at H (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:130:7155)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:131:713
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:16:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1) {
+  details: "resolve 'colors/one-dark.css' in '/home/lucky/.config/waybar/colors'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in /home/lucky/.config/waybar/colors or above\n' +
+    '  No description file found in /home/lucky/.config/waybar/colors/colors or above\n' +
+    '  no extension\n' +
+    "    /home/lucky/.config/waybar/colors/colors/one-dark.css doesn't exist\n" +
+    '  .css\n' +
+    "    /home/lucky/.config/waybar/colors/colors/one-dark.css.css doesn't exist\n" +
+    '  as directory\n' +
+    "    /home/lucky/.config/waybar/colors/colors/one-dark.css doesn't exist\n" +
+    '  resolve as module\n' +
+    "    /home/lucky/.config/waybar/colors/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/.config/waybar/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/.config/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/node_modules doesn't exist or is not a directory\n" +
+    "    /home/node_modules doesn't exist or is not a directory\n" +
+    "    /node_modules doesn't exist or is not a directory"
+}
+---- RELOADED IN 122.61ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+[Global] Adding watch patterns: /home/lucky/.config/waybar/colors/one-dark.css
+---- RELOADED IN 65.90ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+---- RELOADED IN 94.06ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+[Error - 01:24:27] Unable to load stylesheet: one-dark.css Error: Can't resolve 'one-dark.css' in '/home/lucky/.config/waybar/colors'
+    at H (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:130:7155)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:131:713
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:16:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1)
+    at /home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:134:405
+    at eval (eval at create (/home/lucky/.vscode/extensions/bradlc.vscode-tailwindcss-0.16.0/dist/tailwindServer.js:5:78), <anonymous>:15:1) {
+  details: "resolve 'one-dark.css' in '/home/lucky/.config/waybar/colors'\n" +
+    '  Parsed request is a module\n' +
+    '  No description file found in /home/lucky/.config/waybar/colors or above\n' +
+    '  No description file found in /home/lucky/.config/waybar/colors or above\n' +
+    '  no extension\n' +
+    "    /home/lucky/.config/waybar/colors/one-dark.css doesn't exist\n" +
+    '  .css\n' +
+    "    /home/lucky/.config/waybar/colors/one-dark.css.css doesn't exist\n" +
+    '  as directory\n' +
+    "    /home/lucky/.config/waybar/colors/one-dark.css doesn't exist\n" +
+    '  resolve as module\n' +
+    "    /home/lucky/.config/waybar/colors/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/.config/waybar/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/.config/node_modules doesn't exist or is not a directory\n" +
+    "    /home/lucky/node_modules doesn't exist or is not a directory\n" +
+    "    /home/node_modules doesn't exist or is not a directory\n" +
+    "    /node_modules doesn't exist or is not a directory"
+}
+---- RELOADED IN 74.63ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+---- RELOADED IN 140.32ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+---- RELOADED IN 153.44ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+---- RELOADED IN 128.91ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+---- RELOADED IN 152.11ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+---- RELOADED IN 121.00ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+---- RELOADED IN 117.51ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+---- RELOADED IN 174.21ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+---- RELOADED IN 129.47ms ----
+---- RELOADING DESIGN SYSTEM ----
+---- /home/lucky/.config/waybar/colors/style.css ----
+---- RELOADED IN 143.98ms ----

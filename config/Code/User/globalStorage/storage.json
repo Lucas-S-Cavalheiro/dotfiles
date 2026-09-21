@@ -1,0 +1,134 @@
+{
+    "telemetry.sqmId": "",
+    "telemetry.machineId": "ecf2d41a3e32654c354ece0cb86fc0d854fa107be7dcfc267a9a256600921d84",
+    "telemetry.devDeviceId": "5fb7a995-a1d0-4712-b6e1-d25eaae9b280",
+    "backupWorkspaces": {
+        "workspaces": [],
+        "folders": [
+            {
+                "folderUri": "file:///home/lucky/%C3%81rea%20de%20trabalho/Backup/dotfiles"
+            }
+        ],
+        "emptyWindows": []
+    },
+    "windowControlHeight": 42,
+    "profileAssociations": {
+        "workspaces": {
+            "file:///home/lucky/.config/waybar": "__default__profile__",
+            "file:///home/lucky/%C3%81rea%20de%20trabalho/Backup/dotfiles": "__default__profile__"
+        },
+        "emptyWindows": {}
+    },
+    "windowsState": {
+        "lastActiveWindow": {
+            "folder": "file:///home/lucky/%C3%81rea%20de%20trabalho/Backup/dotfiles",
+            "backupPath": "/home/lucky/.config/Code/Backups/23d10df4d3c6e81d6436df351590a88e",
+            "uiState": {
+                "mode": 0,
+                "x": 16,
+                "y": 10,
+                "width": 671,
+                "height": 720,
+                "zoomLevel": 1
+            }
+        },
+        "openedWindows": []
+    },
+    "theme": "vs-dark",
+    "themeBackground": "#1f1f1f",
+    "windowSplash": {
+        "zoomLevel": 0,
+        "baseTheme": "vs-dark",
+        "colorInfo": {
+            "foreground": "#888888",
+            "background": "#1f1f1f",
+            "editorBackground": "#1f1f1f",
+            "titleBarBackground": "#1a1a1a",
+            "titleBarInactiveBackground": "#1e1e1e",
+            "titleBarBorder": "rgba(0, 0, 0, 0)",
+            "activityBarBackground": "#1a1a1a",
+            "modernActivityBarBackground": "#1a1a1a",
+            "modernActivityBarInactiveBackground": "#1a1a1a",
+            "modernActivityBarBorder": "#2a2a2a",
+            "modernPanelBorder": "#2a2a2a",
+            "modernUIShellBackground": "#1a1a1a",
+            "modernUIInactiveShellBackground": "#1e1e1e",
+            "sideBarBackground": "#1a1a1a",
+            "panelBackground": "#1f1f1f",
+            "editorGroupBorder": "#444444",
+            "editorBorder": "#2a2a2a",
+            "surfaceBackground": "#1a1a1a",
+            "surfaceBorder": "#2a2a2a",
+            "agentsPanelBackground": "#1a1a1a",
+            "agentsPanelBorder": "rgba(136, 136, 136, 0.15)",
+            "statusBarBackground": "#1a1a1a",
+            "statusBarNoFolderBackground": "#1a1a1a"
+        },
+        "layoutInfo": {
+            "sideBarSide": "left",
+            "editorPartMinWidth": 220,
+            "titleBarHeight": 35,
+            "activityBarWidth": 48,
+            "sideBarWidth": 293,
+            "auxiliaryBarWidth": 0,
+            "statusBarHeight": 28,
+            "windowBorder": false,
+            "modernUI": true,
+            "modernUICompact": false,
+            "partBounds": {
+                "activityBar": {
+                    "top": 60.98958206176758,
+                    "left": 3.9973957538604736,
+                    "width": 43.99739456176758,
+                    "height": 503.984375,
+                    "outerEdges": {
+                        "left": true,
+                        "right": false,
+                        "top": true,
+                        "bottom": true
+                    }
+                },
+                "sideBar": {
+                    "top": 60.98958206176758,
+                    "left": 47.994789123535156,
+                    "width": 292.9947814941406,
+                    "height": 503.6588439941406,
+                    "outerEdges": {
+                        "left": false,
+                        "right": false,
+                        "top": true,
+                        "bottom": true
+                    }
+                },
+                "editor": {
+                    "top": 60.98958206176758,
+                    "left": 344.9869689941406,
+                    "width": 766.0025634765625,
+                    "height": 503.6588439941406,
+                    "outerEdges": {
+                        "left": false,
+                        "right": true,
+                        "top": true,
+                        "bottom": true
+                    }
+                }
+            }
+        }
+    },
+    "windowSplashWorkspaceOverride": {
+        "layoutInfo": {
+            "sideBarWidth": 293,
+            "auxiliaryBarWidth": 170,
+            "workspaces": {
+                "af4cd2a1ad00ed100e7c41ede3803c2d": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                },
+                "1f28c5b09ecb5c2a85e0193939e47d5f": {
+                    "sideBarVisible": true,
+                    "auxiliaryBarVisible": false
+                }
+            }
+        }
+    }
+}

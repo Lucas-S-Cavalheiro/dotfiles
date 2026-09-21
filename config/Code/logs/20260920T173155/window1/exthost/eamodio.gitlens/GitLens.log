@@ -1,0 +1,11 @@
+2026-09-20 17:32:05.852 [info] To enable debug logging, run "GitLens: Enable Debug Logging" or "Developer: Set Log Level..." from the Command Palette
+2026-09-20 17:32:05.853 [info]    [            1] GitLens v19.2.0  activating in Visual Studio Code (1.138.0) on the desktop; mode=production,language='en', logLevel='info', defaultDateLocale='null' (vscode|ecf2d41a3e32654c354ece0cb86fc0d854fa107be7dcfc267a9a256600921d84|1be6b67f-bfaf-41fe-a49b-696478e451e21789936316907)
+2026-09-20 17:32:05.853 [warning] [            1] GitLens v19.2.0 activated [442ms]
+2026-09-20 17:32:05.853 [info]    [   78 →    79] GlCliGitProvider.findGit Git (2.55.0) found in /usr/bin/git [1046ms]
+2026-09-20 17:32:05.853 [info]    [   78 →    af] GlCliGitProvider.repositorySearch(/home/lucky/.config/waybar) searching (depth=1)...
+2026-09-20 17:32:05.853 [error]   [GIT          ] [/home/lucky/.config/waybar] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any parent up to mount point /) · Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [206ms]
+2026-09-20 17:32:05.853 [info]    [IPC          ] CLI capability published on http://127.0.0.1:34301
+2026-09-20 17:32:05.921 [error]   [GIT          ] [/home/lucky/.config/waybar] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any parent up to mount point /) · Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [31ms]
+2026-09-20 17:32:07.697 [info]    [CLI          ] CLI core version is 3.1.75
+2026-09-20 17:33:06.600 [error]   [GIT          ] [/home/lucky/.config/waybar] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any parent up to mount point /) · Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [85ms]
+2026-09-20 17:33:09.683 [error]   [GIT          ] [/home/lucky/.config/waybar/colors] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any parent up to mount point /) · Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [11ms]

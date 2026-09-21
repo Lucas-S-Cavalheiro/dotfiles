@@ -1,0 +1,25 @@
+2026-09-20 15:47:14.213 [info] Extension host with pid 14874 started
+2026-09-20 15:47:14.213 [info] Skipping acquiring lock for /home/lucky/.config/Code/User/workspaceStorage/af4cd2a1ad00ed100e7c41ede3803c2d.
+2026-09-20 15:47:14.568 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-09-20 15:47:14.672 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-09-20 15:47:14.770 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-20 15:47:14.837 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-20 15:47:15.251 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-20 15:47:15.867 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-09-20 15:47:15.881 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2026-09-20 15:47:15.885 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2026-09-20 15:47:15.949 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2026-09-20 15:47:16.902 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-09-20 15:47:17.096 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-09-20 15:47:17.563 [info] Eager extensions activated
+2026-09-20 15:47:17.639 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 15:47:17.659 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 15:47:17.737 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 15:47:17.850 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 15:47:17.940 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 15:47:18.396 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 15:47:18.402 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 15:47:18.470 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 15:47:18.784 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 15:47:18.861 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 15:47:25.252 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'

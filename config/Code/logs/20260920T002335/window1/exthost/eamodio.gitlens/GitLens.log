@@ -1,0 +1,36 @@
+2026-09-20 00:43:52.070 [info] To enable debug logging, run "GitLens: Enable Debug Logging" or "Developer: Set Log Level..." from the Command Palette
+2026-09-20 00:43:52.070 [info]    [            1] GitLens v19.2.0  activating in Visual Studio Code (1.138.0) on the desktop; mode=production,language='en', logLevel='info', defaultDateLocale='null' (vscode|ecf2d41a3e32654c354ece0cb86fc0d854fa107be7dcfc267a9a256600921d84|72ff2d9e-a765-4484-bdd2-a46e6377acc51789874616208)
+2026-09-20 00:43:52.070 [info]    GitLens first-time install; window.focused=true
+2026-09-20 00:43:52.070 [info]    [            1] GitLens v19.2.0 activated [190ms]
+2026-09-20 00:43:52.070 [info]    [   b2 →    b5] CliBinaryInstaller.install Starting CLI installation (attempt 1/5)
+2026-09-20 00:43:52.262 [info]    WebviewsController.resolveWebviewView(gitlens.views.graph|d37d2ae9-4a62-4e01-8635-2ca82cf3d62f): hasRestoreState=false, parentVisible=true
+2026-09-20 00:43:52.311 [info]    WebviewsController.resolveWebviewView(gitlens.views.welcome|59cbcba9-00be-46a2-ac87-e604f0126172): hasRestoreState=false, parentVisible=true
+2026-09-20 00:43:52.381 [info]    [IPC          ] CLI capability published on http://127.0.0.1:41623
+2026-09-20 00:43:52.390 [info]    [   84 →    85] GlCliGitProvider.findGit Git (2.55.0) found in /usr/bin/git [578ms]
+2026-09-20 00:43:52.392 [info]    [   84 →    ce] GlCliGitProvider.repositorySearch(/home/lucky/.config/waybar) searching (depth=1)...
+2026-09-20 00:43:52.408 [error]   [GIT          ] [/home/lucky/.config/waybar] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any parent up to mount point /) · Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [16ms]
+2026-09-20 00:43:52.422 [info]    WebviewController(gitlens.views.welcome|59cbcba9-00be-46a2-ac87-e604f0126172): webview.html set (reason=show:loading, length=2278)
+2026-09-20 00:43:52.423 [error]   [CLI   b3 → e0] undefined ai hook list-sessions --status active,ended --json CLI is not installed [0ms]
+2026-09-20 00:43:52.654 [info]    WebviewController(gitlens.views.welcome|59cbcba9-00be-46a2-ac87-e604f0126172): webview.connect #1 (clientId=wv-kjl2fkmc, clientLoadedAt=1789875832534, sinceLastHtmlSet=233ms, wasAlreadyReady=false, parentVisible=true)
+2026-09-20 00:43:52.884 [warning] [   f5 →    f6] GkMcpService.getMcpConfig CLI not ready — install.status=undefined
+2026-09-20 00:43:53.270 [info]    WebviewController(gitlens.views.graph|d37d2ae9-4a62-4e01-8635-2ca82cf3d62f): webview.html set (reason=show:loading, length=3296)
+2026-09-20 00:43:53.365 [info]    WebviewController(gitlens.welcome|45fbf744-54e8-4b9f-8559-25d055ebc511): webview.html set (reason=show:loading, length=2268)
+2026-09-20 00:43:53.396 [info]    WebviewController(gitlens.welcome|45fbf744-54e8-4b9f-8559-25d055ebc511): webview.html set (reason=refresh:apply, length=2268)
+2026-09-20 00:43:53.831 [info]    WebviewController(gitlens.welcome|45fbf744-54e8-4b9f-8559-25d055ebc511): webview.connect #1 (clientId=wv-qgzv3yx6, clientLoadedAt=1789875833747, sinceLastHtmlSet=435ms, wasAlreadyReady=false, parentVisible=true)
+2026-09-20 00:43:54.018 [info]    WebviewController(gitlens.views.graph|d37d2ae9-4a62-4e01-8635-2ca82cf3d62f): webview.connect #1 (clientId=wv-yb1rp6mf, clientLoadedAt=1789875833693, sinceLastHtmlSet=748ms, wasAlreadyReady=false, parentVisible=true)
+2026-09-20 00:43:54.068 [error]   [CLI       12f] undefined agents list --json CLI is not installed [0ms]
+2026-09-20 00:43:54.069 [error] Error: CLI is not installed   Failed to get agent list from CLI
+2026-09-20 00:43:55.412 [error]   [CLI  b5 → 136] undefined install CLI is not installed [0ms]
+2026-09-20 00:43:55.415 [error] Error: Failed to install core: CLI is not installed   [   b2 →    b5] CliBinaryInstaller.install Failed to auto-install CLI: Failed to install core: CLI is not installed
+2026-09-20 00:43:55.416 [warning] [   b2 →    b5] CliBinaryInstaller.install(e=true, t=settings, i=false) returned {"cliVersion":"3.1.75","cliPath":"/home/lucky/.config/Code/User/globalStorage/eamodio.gitlens","status":"attempted","changed":false} [*3356ms] (slow)
+2026-09-20 00:43:55.418 [info]    [  134 →   137] CliBinaryInstaller.install Starting CLI installation (attempt 1/5)
+2026-09-20 00:43:55.418 [error] Error: Failed to install core   [   a3 →    b2] GkMcpService.setupCore Error during MCP installation: Error: Failed to install core
+2026-09-20 00:43:55.419 [error] Error: Unable to locally install the GitKraken MCP server. Please try again.   [   a3 →    b2] GkMcpService.setupCore — failed [3364ms]
+2026-09-20 00:43:59.868 [info]    [  134 →   137] CliBinaryInstaller.install CLI installed (version: 3.1.75, path: /home/lucky/.config/Code/User/globalStorage/eamodio.gitlens)
+2026-09-20 00:43:59.889 [warning] [  134 →   137] CliBinaryInstaller.install(e=true, t=gk-cli-integration, i=false) returned {"cliVersion":"3.1.75","cliPath":"/home/lucky/.config/Code/User/globalStorage/eamodio.gitlens","status":"completed","changed":true} [*4472ms] (slow)
+2026-09-20 00:43:59.890 [warning] [   94 →   134] CliBinaryInstaller.ensureUpdateOrInstall completed [*5038ms] (slow)
+2026-09-20 00:44:01.573 [warning] [  14b →   14c] GkMcpService.getMcpConfig completed [*1651ms] (slow)
+2026-09-20 00:44:01.579 [warning] [  148 →   14b] VSCodeMcpHostProvider.provideMcpServerDefinitions({"isCancellationRequested":false}) returned [{"label":"GitKraken","command":"/home/lucky/.config/Code/User/globalStorage/eamodio.gitlens/gk","args":["mcp","--host=vscode","--source=gitlens","--scheme=vscode"],"env":"<env:@5465>","version":"3.1.75","cwd":{"$mid":1,"path":"/home/lucky/.config/Code/User/globalStorage/eamodio.gitlens","scheme":"vscode-userdata"}}] [*1657ms] (slow)
+2026-09-20 00:46:43.857 [info]    WebviewController(gitlens.welcome|45fbf744-54e8-4b9f-8559-25d055ebc511): webview.html set (reason=refresh:apply, length=2268)
+2026-09-20 00:46:44.142 [info]    WebviewController(gitlens.welcome|45fbf744-54e8-4b9f-8559-25d055ebc511): webview.connect #2 (clientId=wv-7oads6hk, clientLoadedAt=1789876004046, sinceLastHtmlSet=285ms, wasAlreadyReady=false, parentVisible=true)
+2026-09-20 00:46:48.845 [error]   [GIT          ] [/home/lucky/.config/waybar] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any parent up to mount point /) · Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [58ms]

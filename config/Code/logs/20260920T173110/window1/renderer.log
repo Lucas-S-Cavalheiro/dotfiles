@@ -1,0 +1,17 @@
+2026-09-20 17:31:11.264 [info] [RemoteAgentHost] Reconciling: desired=[], current=[]
+2026-09-20 17:31:11.290 [warning] Creation of workbench contribution 'workbench.contrib.agentHostChatDebug' took 29ms.
+2026-09-20 17:31:11.333 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-20 17:31:11.891 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-20 17:31:12.267 [info] Started local extension host with pid 3008.
+2026-09-20 17:31:13.796 [info] [AgentHost:renderer] Protocol connection established; clientId=3eb87af9-a248-49cd-9538-be58e678beda
+2026-09-20 17:31:14.967 [error] [Extension Host] (node:3008) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-20 17:31:15.220 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-20 17:31:16.608 [error] [Extension Host] (node:3008) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+2026-09-20 17:31:17.628 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-20 17:31:17.834 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-20 17:31:17.996 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-20 17:31:18.123 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-20 17:31:18.297 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-20 17:31:20.243 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-20 17:31:20.463 [info] [perf] Render performance baseline is 97ms

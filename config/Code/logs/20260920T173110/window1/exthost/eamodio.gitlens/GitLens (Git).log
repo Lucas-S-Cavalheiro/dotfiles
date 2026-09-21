@@ -1,0 +1,9 @@
+2026-09-20 17:31:17.832 [error] [         68ms] [/home/lucky/.config/waybar] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree • FAILED
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-20 17:31:18.013 [error] [        124ms] [/home/lucky/.config/waybar] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree • FAILED
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).
+2026-09-20 17:31:34.015 [error] [          8ms] [/home/lucky/.config/waybar] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree • FAILED
+Error: fatal: not a git repository (or any parent up to mount point /)
+Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set).

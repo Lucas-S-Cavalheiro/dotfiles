@@ -1,0 +1,23 @@
+2026-09-20 00:23:36.303 [info] [RemoteAgentHost] Reconciling: desired=[], current=[]
+2026-09-20 00:23:36.335 [warning] Creation of workbench contribution 'workbench.contrib.agentHostChatDebug' took 35ms.
+2026-09-20 00:23:36.377 [warning] Creation of workbench contribution 'workbench.contrib.chatSetup' took 31ms.
+2026-09-20 00:23:36.410 [info] [AgentHost:renderer] Acquiring MessagePort to agent host...
+2026-09-20 00:23:37.352 [info] [AgentHost:renderer] MessagePort acquired, creating client...
+2026-09-20 00:23:37.550 [info] Started local extension host with pid 31072.
+2026-09-20 00:23:38.563 [info] [AgentHost:renderer] Protocol connection established; clientId=5716001a-ed69-4328-934e-8e4c10e927e4
+2026-09-20 00:23:38.961 [info] [RemoteAgentHostProtocol] Mirroring configuration to host root config from DEFAULT: byokModelsEnabled=true (chat.agentHost.byokModels.enabled)
+2026-09-20 00:23:40.039 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-20 00:23:43.054 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-20 00:23:43.066 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-20 00:23:43.068 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-20 00:23:43.079 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-20 00:23:43.527 [info] Settings Sync: Account status changed from uninitialized to unavailable
+2026-09-20 00:23:45.041 [info] [AccountPolicyGate] apply: state=inactive, reason=undefined, isRestricted=false
+2026-09-20 00:23:45.991 [info] [perf] Render performance baseline is 91ms
+2026-09-20 00:43:31.940 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-20 00:43:32.289 [error] [Extension Host] (node:31072) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+2026-09-20 00:43:32.292 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-20 00:43:32.526 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com
+2026-09-20 00:43:32.547 [info] [AgentHost] No signed-in session resolved for resource: https://api.github.com/repos
+2026-09-20 00:44:09.837 [error] [Extension Host] (node:31072) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.

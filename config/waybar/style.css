@@ -1,0 +1,90 @@
+/* @import "$HOME/.config/colors/colors.css" */
+@import "colors/colors.css";
+
+* {
+    font-family: "JetBrainsMono Nerd Font";
+    font-size: 13px;
+    font-weight: bold;
+    background-color: transparent;
+    border-radius: 5px;
+    min-height: 0;
+}
+
+window,
+tooltip {
+    background-color: transparent;
+}
+
+#waybar {
+    background: alpha(@background, 0);
+    border-radius: 0;
+}
+
+#workspaces {
+    margin: 1px 0;
+}
+
+#workspaces button {
+    color: @foreground;
+    border: none;
+    padding: 0 5px;
+}
+#workspaces button:hover {
+    color: @gray;
+    transition: none;
+    border-bottom: 1px solid @gray;
+    padding: 0 8px;
+}
+
+#workspaces button.active {
+    color: @white;
+    border: 2px solid @gray;
+    padding: 0 8px;
+    margin: 0 2px;
+}
+
+#workspaces button.urgent {
+    background-color: @red;
+    padding: 0 8px;
+}
+
+#custom-power,
+#tray,
+#bluetooth,
+#network,
+#pulseaudio,
+#clock {
+    color: @foreground;
+    margin: 1px 0;
+    padding: 0 10px;
+}
+
+#custom-power:hover,
+#bluetooth:hover,
+#network:hover,
+#pulseaudio:hover,
+#clock:hover {
+    background-color: alpha(@select, 0.6);
+}
+
+#bluetooth {
+    color: @white;
+}
+
+#network {
+    color: @white;
+}
+
+#pulseaudio {
+    color: @white;
+}
+
+#clock {
+    margin-right: 10px;
+    color: @white;
+}
+
+#custom-power {
+    margin-left: 10px;
+    padding: 0px 10px 0 15px;
+}

@@ -1,0 +1,41 @@
+2026-09-19 23:00:08.349 [info] Agent Host process started successfully
+2026-09-19 23:00:08.410 [info] AgentService initialized
+2026-09-19 23:00:08.424 [info] Registering agent provider: copilotcli
+2026-09-19 23:00:08.431 [info] Registering agent provider: claude
+2026-09-19 23:00:08.441 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-19 23:00:08.492 [info] [Claude] Models refreshed (merged). Count: 0, 
+2026-09-19 23:00:08.584 [info] [WebSocketProtocol] Server listening on socket /tmp/vscode-ah-e84a8ca73cff/BJa6c107qXdcGzwzyzVQ9Q.sock
+2026-09-19 23:00:08.659 [info] [CommandAutoApprover] Tree-sitter initialized (bash=available, powershell=available)
+2026-09-19 23:00:08.709 [info] [Copilot] Listing chats to migrate...
+2026-09-19 23:00:08.710 [info] [Copilot] Starting CopilotClient...
+2026-09-19 23:00:08.715 [info] [Copilot] Set CLI env: GITHUB_COPILOT_INTEGRATION_ID=vscode-chat
+2026-09-19 23:00:08.734 [info] [Copilot] Resolved CLI path: /usr/share/code/resources/app/node_modules.asar.unpacked/@github/copilot-linux-x64/index.js
+2026-09-19 23:00:08.801 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-19 23:00:08.802 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-19 23:00:08.937 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-19 23:00:08.940 [info] [ProtocolServer] Initialize: clientId=c1471079-5c33-45af-804a-96657117357c, protocolVersions=[0.9.0, 0.7.0, 0.6.0, 0.5.2, 0.5.1]
+2026-09-19 23:00:09.034 [info] [AgentService] showExternalSessions changed 'none' -> 'recent'; queueing session list reconciliation
+2026-09-19 23:00:11.380 [info] [Copilot] CopilotClient started successfully
+2026-09-19 23:00:11.383 [info] [Copilot] Listed 0 SDK session(s) for chats to migrate
+2026-09-19 23:00:11.383 [info] [Copilot] Found 0 legacy sessions
+2026-09-19 23:00:11.421 [info] [Copilot] Listing discoverable chats...
+2026-09-19 23:00:11.423 [info] [AgentService] listSessions computed 0 of 0 session(s) for mode 'last30Days' in 2385ms (metadata 0ms, overlay 0ms, 0 state-manager fallback)
+2026-09-19 23:00:11.423 [info] [AgentService] External session reconciliation done in 2386ms (mode: 'recent', previous: 'none'): 0 published, 0 retracted, 0 visible
+2026-09-19 23:00:11.424 [info] [Copilot] Listed 0 SDK session(s) for discoverable chats
+2026-09-19 23:00:11.425 [info] [AgentService] pruned 0 stale external session row(s) older than 30 days
+2026-09-19 23:00:11.426 [info] [Copilot] Chat discovery: 0 SDK session(s) -> 0 external, 0 adoptable legacy extension-host, 0 suppressed adoptable legacy extension-host, 0 suppressed archived legacy extension-host, 0 already known to Agent Host, 0 without a working directory, 0 with unsupported or missing client name, 0 outside the import window, 0 without repository metadata, 0 failed to classify (adopt legacy extension-host chats: false)
+2026-09-19 23:00:11.426 [info] [Claude] SDK not downloaded yet; deferring chat discovery
+2026-09-19 23:00:12.423 [info] [Claude] SDK not downloaded yet; deferring the migratable chat list
+2026-09-19 23:00:12.573 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-19 23:00:12.574 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-19 23:00:12.575 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-19 23:00:12.577 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-19 23:00:12.579 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-19 23:00:12.581 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-19 23:00:12.584 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-19 23:00:13.085 [info] [Copilot] Auto routing profiles toggled; refreshing models
+2026-09-19 23:00:26.118 [info] [ProtocolServer] Client disconnected: c1471079-5c33-45af-804a-96657117357c, subscriptions=1
+2026-09-19 23:00:26.121 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-19 23:00:26.121 [info] [Copilot] BYOK bridge changed; refreshing models
+2026-09-19 23:00:26.125 [info] AgentService: shutting down all providers...
+2026-09-19 23:00:26.126 [info] [Copilot] Shutting down...

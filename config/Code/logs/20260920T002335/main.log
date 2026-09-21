@@ -1,0 +1,12 @@
+2026-09-20 00:23:35.092 [info] StorageMainService: creating application shared storage
+2026-09-20 00:23:35.237 [info] [shared storage] Creating shared storage database at '/home/lucky/.vscode-shared/sharedStorage/state.vscdb' (wasCreated: false)
+2026-09-20 00:23:35.238 [info] [shared storage] Initializing fallback application storage (path: /home/lucky/.config/Code/User/globalStorage/state.vscdb)
+2026-09-20 00:23:35.264 [info] [shared storage] Fallback application storage initialized with 75 items
+2026-09-20 00:23:36.279 [info] update#setState idle
+2026-09-20 00:23:36.426 [info] AgentHostProcessManager: agent host started
+2026-09-20 00:23:37.952 [error] [AgentHost:stderr] (node:31016) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `exe --trace-deprecation ...` to show where the warning was created)
+
+2026-09-20 00:24:06.281 [info] update#setState checking for updates
+2026-09-20 00:24:06.572 [info] update#setState idle
+2026-09-20 00:46:56.116 [info] Extension host with pid 31072 exited with code: 0, signal: unknown.

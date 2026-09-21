@@ -1,0 +1,11 @@
+2026-09-20 20:47:37.619 [info] To enable debug logging, run "GitLens: Enable Debug Logging" or "Developer: Set Log Level..." from the Command Palette
+2026-09-20 20:47:37.619 [info]    [            1] GitLens v19.2.0  activating in Visual Studio Code (1.138.0) on the desktop; mode=production,language='en', logLevel='info', defaultDateLocale='null' (vscode|ecf2d41a3e32654c354ece0cb86fc0d854fa107be7dcfc267a9a256600921d84|cf3ef0c4-7a2b-4f83-bbc8-b4eb1abf17581789948048242)
+2026-09-20 20:47:37.619 [warning] [            1] GitLens v19.2.0 activated [487ms]
+2026-09-20 20:47:37.619 [info]    [IPC          ] CLI capability published on http://127.0.0.1:38799
+2026-09-20 20:47:37.620 [info]    [   79 →    7a] GlCliGitProvider.findGit Git (2.55.0) found in /usr/bin/git [1324ms]
+2026-09-20 20:47:37.634 [info]    [   79 →    b3] GlCliGitProvider.repositorySearch(/home/lucky/Área de trabalho/Backup/dotfiles) searching (depth=1)...
+2026-09-20 20:47:37.790 [warning] [    d →     e] ServerConnection.fetch(url=https://configs.gitkraken.dev/gitlens/product.json, options=undefined) completed [*1764ms] (slow)
+2026-09-20 20:47:37.794 [warning] [    c →     d] ServerConnection.fetchGkConfig(path=product.json, options=undefined) completed [*1766ms] (slow)
+2026-09-20 20:47:39.518 [info]    [CLI          ] CLI core version is 3.1.75
+2026-09-20 20:47:40.282 [warning] [   ca →    cb] GkMcpService.getMcpConfig completed [*2210ms] (slow)
+2026-09-20 20:47:40.286 [warning] [   89 →    ca] VSCodeMcpHostProvider.provideMcpServerDefinitions({"isCancellationRequested":false}) returned [{"label":"GitKraken","command":"/home/lucky/.config/Code/User/globalStorage/eamodio.gitlens/gk","args":["mcp","--host=vscode","--source=gitlens","--scheme=vscode"],"env":"<env:@5465>","version":"3.1.75","cwd":{"$mid":1,"path":"/home/lucky/.config/Code/User/globalStorage/eamodio.gitlens","scheme":"vscode-userdata"}}] [*2211ms] (slow)

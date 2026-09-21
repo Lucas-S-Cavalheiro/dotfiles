@@ -1,0 +1,14 @@
+2026-09-20 18:05:04.181 [info] To enable debug logging, run "GitLens: Enable Debug Logging" or "Developer: Set Log Level..." from the Command Palette
+2026-09-20 18:05:04.181 [info]    [            1] GitLens v19.2.0  activating in Visual Studio Code (1.138.0) on the desktop; mode=production,language='en', logLevel='info', defaultDateLocale='null' (vscode|ecf2d41a3e32654c354ece0cb86fc0d854fa107be7dcfc267a9a256600921d84|cf67e221-f2d3-4d01-8aae-be19886f9f591789938296782)
+2026-09-20 18:05:04.181 [warning] [            1] GitLens v19.2.0 activated [789ms]
+2026-09-20 18:05:04.181 [info]    [   78 →    79] GlCliGitProvider.findGit Git (2.55.0) found in /usr/bin/git [642ms]
+2026-09-20 18:05:04.181 [info]    [   78 →    a7] GlCliGitProvider.repositorySearch(/home/lucky/.config/waybar) searching (depth=1)...
+2026-09-20 18:05:04.181 [error]   [GIT          ] [/home/lucky/.config/waybar] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any parent up to mount point /) · Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [201ms]
+2026-09-20 18:05:04.181 [info]    [IPC          ] CLI capability published on http://127.0.0.1:37993
+2026-09-20 18:05:05.610 [warning] [    c →     d] ServerConnection.fetch(url=https://configs.gitkraken.dev/gitlens/product.json, options=undefined) completed [*2629ms] (slow)
+2026-09-20 18:05:05.611 [warning] [    b →     c] ServerConnection.fetchGkConfig(path=product.json, options=undefined) completed [*2630ms] (slow)
+2026-09-20 18:05:06.599 [info]    [CLI          ] CLI core version is 3.1.75
+2026-09-20 18:05:06.649 [warning] [   b7 →    b8] GkMcpService.getMcpConfig completed [*2207ms] (slow)
+2026-09-20 18:05:06.650 [warning] [   ae →    b7] VSCodeMcpHostProvider.provideMcpServerDefinitions({"isCancellationRequested":false}) returned [{"label":"GitKraken","command":"/home/lucky/.config/Code/User/globalStorage/eamodio.gitlens/gk","args":["mcp","--host=vscode","--source=gitlens","--scheme=vscode"],"env":"<env:@5465>","version":"3.1.75","cwd":{"$mid":1,"path":"/home/lucky/.config/Code/User/globalStorage/eamodio.gitlens","scheme":"vscode-userdata"}}] [*2208ms] (slow)
+2026-09-20 18:05:11.856 [error]   [GIT          ] [/home/lucky/.config/waybar] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any parent up to mount point /) · Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [205ms]
+2026-09-20 18:05:25.694 [error]   [GIT          ] [/home/lucky/.config/waybar] git rev-parse --show-toplevel --git-dir --git-common-dir --show-superproject-working-tree · not a git repository (or any parent up to mount point /) · Stopping at filesystem boundary (GIT_DISCOVERY_ACROSS_FILESYSTEM not set). [69ms]

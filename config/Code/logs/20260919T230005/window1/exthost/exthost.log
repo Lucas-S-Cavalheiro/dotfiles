@@ -1,0 +1,11 @@
+2026-09-19 23:00:10.954 [info] Extension host with pid 24688 started
+2026-09-19 23:00:10.954 [info] Skipping acquiring lock for /home/lucky/.config/Code/User/workspaceStorage/af4cd2a1ad00ed100e7c41ede3803c2d.
+2026-09-19 23:00:11.549 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-09-19 23:00:11.611 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-09-19 23:00:11.963 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*'
+2026-09-19 23:00:12.093 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-09-19 23:00:12.235 [info] Eager extensions activated
+2026-09-19 23:00:12.317 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-09-19 23:00:12.326 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-09-19 23:00:25.890 [info] Extension host terminating: received terminate message from renderer
+2026-09-19 23:00:25.926 [info] Extension host with pid 24688 exiting with code 0

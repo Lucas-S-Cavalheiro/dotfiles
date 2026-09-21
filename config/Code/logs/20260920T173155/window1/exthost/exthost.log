@@ -1,0 +1,54 @@
+2026-09-20 17:31:59.604 [info] Extension host with pid 3746 started
+2026-09-20 17:31:59.604 [info] Skipping acquiring lock for /home/lucky/.config/Code/User/workspaceStorage/af4cd2a1ad00ed100e7c41ede3803c2d.
+2026-09-20 17:32:00.302 [info] ExtensionService#_doActivateExtension vscode.github-authentication, startup: false, activationEvent: 'onAuthenticationRequest:github'
+2026-09-20 17:32:00.371 [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onLanguage'
+2026-09-20 17:32:00.405 [info] ExtensionService#_doActivateExtension vscode.css-language-features, startup: false, activationEvent: 'onLanguage:css'
+2026-09-20 17:32:01.130 [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+2026-09-20 17:32:01.146 [info] ExtensionService#_doActivateExtension formulahendry.auto-close-tag, startup: true, activationEvent: '*'
+2026-09-20 17:32:01.155 [info] ExtensionService#_doActivateExtension formulahendry.auto-rename-tag, startup: true, activationEvent: '*'
+2026-09-20 17:32:01.277 [info] ExtensionService#_doActivateExtension mhutchie.git-graph, startup: true, activationEvent: '*'
+2026-09-20 17:32:02.085 [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+2026-09-20 17:32:02.186 [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+2026-09-20 17:32:02.488 [info] Eager extensions activated
+2026-09-20 17:32:02.634 [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 17:32:02.643 [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 17:32:02.702 [info] ExtensionService#_doActivateExtension bradlc.vscode-tailwindcss, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 17:32:02.787 [info] ExtensionService#_doActivateExtension dbaeumer.vscode-eslint, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 17:32:02.889 [info] ExtensionService#_doActivateExtension eamodio.gitlens, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 17:32:03.804 [info] ExtensionService#_doActivateExtension ecmel.vscode-html-css, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 17:32:03.807 [info] ExtensionService#_doActivateExtension formulahendry.code-runner, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 17:32:03.855 [info] ExtensionService#_doActivateExtension GitHub.vscode-pull-request-github, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 17:32:04.158 [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 17:32:04.177 [info] ExtensionService#_doActivateExtension usernamehw.errorlens, startup: false, activationEvent: 'onStartupFinished'
+2026-09-20 17:33:06.320 [info] ExtensionService#_doActivateExtension vscode.configuration-editing, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-20 17:33:06.333 [info] ExtensionService#_doActivateExtension vscode.json-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-20 17:33:06.448 [info] ExtensionService#_doActivateExtension vscode.typescript-language-features, startup: false, activationEvent: 'onLanguage:jsonc'
+2026-09-20 17:33:12.055 [info] Extension host terminating: received terminate message from renderer
+2026-09-20 17:33:12.214 [error] An error occurred when disposing the subscriptions for extension 'eamodio.gitlens':
+2026-09-20 17:33:12.281 [error] Error: Channel has been closed
+    at i (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:562:3935)
+    at Object.info (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:562:4305)
+    at Logger.info (/home/lucky/.vscode/extensions/eamodio.gitlens-19.2.0/dist/gitlens.js:639:112633)
+    at GkCliService.stopIpc (/home/lucky/.vscode/extensions/eamodio.gitlens-19.2.0/dist/gitlens.js:1120:55587)
+    at GkCliService.dispose (/home/lucky/.vscode/extensions/eamodio.gitlens-19.2.0/dist/gitlens.js:1120:53421)
+    at /home/lucky/.vscode/extensions/eamodio.gitlens-19.2.0/dist/gitlens.js:1007:69937
+    at Array.forEach (<anonymous>)
+    at Object.dispose (/home/lucky/.vscode/extensions/eamodio.gitlens-19.2.0/dist/gitlens.js:1007:69918)
+    at xn (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:429:736)
+    at T_._fn (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:559:18537)
+    at T_.dispose (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:429:1248)
+    at BR._deactivate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:559:14854)
+    at file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:559:12156
+    at Array.map (<anonymous>)
+    at BR._deactivateAll (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:559:12144)
+    at BR.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:559:12495)
+    at r.terminate (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:561:1072)
+    at ga (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:864:11797)
+    at Np.value (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:864:9939)
+    at T._deliver (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:431:3617)
+    at T.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:431:3935)
+    at xs.fire (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:433:8627)
+    at MessagePortMain.<anonymous> (file:///usr/share/code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:864:8171)
+    at MessagePortMain.emit (node:events:509:28)
+    at Object.emit (node:electron/js2c/utility_init:2:2934)
+2026-09-20 17:33:12.375 [info] Extension host with pid 3746 exiting with code 0

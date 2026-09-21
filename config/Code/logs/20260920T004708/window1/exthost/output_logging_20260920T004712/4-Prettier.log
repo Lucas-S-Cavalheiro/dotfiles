@@ -1,0 +1,1700 @@
+["INFO" - 00:47:18] Extension Name: esbenp.prettier-vscode.
+["INFO" - 00:47:18] Extension Version: 12.4.0.
+["INFO" - 00:47:19] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:47:19] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:47:25] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:47:25] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:54:48] Formatting file:///home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:54:49] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:54:49] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:54:49] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": false
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 00:54:49] Unable to resolve ignore path: .prettierignore for /home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:54:49] Resolved plugins:
+[]
+["INFO" - 00:54:49] File Info:
+{
+  "ignored": false,
+  "inferredParser": "jsonc"
+}
+["INFO" - 00:54:49] Using VS Code configuration
+["INFO" - 00:54:49] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "/home/lucky/.config/waybar/config.jsonc",
+  "parser": "jsonc"
+}
+["INFO" - 00:54:49] Formatting completed in 113ms.
+["INFO" - 00:54:52] Formatting file:///home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:54:52] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:54:52] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:54:52] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": false
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 00:54:52] Unable to resolve ignore path: .prettierignore for /home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:54:52] Resolved plugins:
+[]
+["INFO" - 00:54:52] File Info:
+{
+  "ignored": false,
+  "inferredParser": "jsonc"
+}
+["INFO" - 00:54:52] Using VS Code configuration
+["INFO" - 00:54:52] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "/home/lucky/.config/waybar/config.jsonc",
+  "parser": "jsonc"
+}
+["INFO" - 00:54:52] Formatting completed in 53ms.
+["INFO" - 00:55:16] Formatting file:///home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:16] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:55:16] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:55:16] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": false
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 00:55:16] Unable to resolve ignore path: .prettierignore for /home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:16] Resolved plugins:
+[]
+["INFO" - 00:55:16] File Info:
+{
+  "ignored": false,
+  "inferredParser": "jsonc"
+}
+["INFO" - 00:55:16] Using VS Code configuration
+["INFO" - 00:55:16] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "/home/lucky/.config/waybar/config.jsonc",
+  "parser": "jsonc"
+}
+["INFO" - 00:55:16] Formatting completed in 15ms.
+["INFO" - 00:55:18] Formatting file:///home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:18] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:55:18] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:55:18] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": false
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 00:55:18] Unable to resolve ignore path: .prettierignore for /home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:18] Resolved plugins:
+[]
+["INFO" - 00:55:18] File Info:
+{
+  "ignored": false,
+  "inferredParser": "jsonc"
+}
+["INFO" - 00:55:18] Using VS Code configuration
+["INFO" - 00:55:18] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "/home/lucky/.config/waybar/config.jsonc",
+  "parser": "jsonc"
+}
+["INFO" - 00:55:18] Formatting completed in 47ms.
+["INFO" - 00:55:40] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:55:40] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:55:55] Formatting file:///home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:55] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:55:55] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:55:55] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": false
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 00:55:55] Unable to resolve ignore path: .prettierignore for /home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:55] Resolved plugins:
+[]
+["INFO" - 00:55:55] File Info:
+{
+  "ignored": false,
+  "inferredParser": "jsonc"
+}
+["INFO" - 00:55:55] Using VS Code configuration
+["INFO" - 00:55:55] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "/home/lucky/.config/waybar/config.jsonc",
+  "parser": "jsonc"
+}
+["INFO" - 00:55:55] Formatting completed in 12ms.
+["INFO" - 00:55:55] Formatting file:///home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:55] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:55:55] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:55:55] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": false
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 00:55:55] Unable to resolve ignore path: .prettierignore for /home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:55] Resolved plugins:
+[]
+["INFO" - 00:55:55] File Info:
+{
+  "ignored": false,
+  "inferredParser": "jsonc"
+}
+["INFO" - 00:55:55] Using VS Code configuration
+["INFO" - 00:55:55] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "/home/lucky/.config/waybar/config.jsonc",
+  "parser": "jsonc"
+}
+["INFO" - 00:55:55] Formatting completed in 43ms.
+["INFO" - 00:55:55] Formatting file:///home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:55] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:55:55] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:55:55] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": false
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 00:55:55] Unable to resolve ignore path: .prettierignore for /home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:55] Resolved plugins:
+[]
+["INFO" - 00:55:55] File Info:
+{
+  "ignored": false,
+  "inferredParser": "jsonc"
+}
+["INFO" - 00:55:55] Using VS Code configuration
+["INFO" - 00:55:55] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "/home/lucky/.config/waybar/config.jsonc",
+  "parser": "jsonc"
+}
+["INFO" - 00:55:55] Formatting completed in 39ms.
+["INFO" - 00:55:55] Formatting file:///home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:56] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:55:56] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:55:56] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": false
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 00:55:56] Unable to resolve ignore path: .prettierignore for /home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:56] Resolved plugins:
+[]
+["INFO" - 00:55:56] File Info:
+{
+  "ignored": false,
+  "inferredParser": "jsonc"
+}
+["INFO" - 00:55:56] Using VS Code configuration
+["INFO" - 00:55:56] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "/home/lucky/.config/waybar/config.jsonc",
+  "parser": "jsonc"
+}
+["INFO" - 00:55:56] Formatting completed in 43ms.
+["INFO" - 00:55:56] Formatting file:///home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:56] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:55:56] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:55:56] PrettierInstance:
+{
+  "__debug": {
+    "mockable": {
+      "mocked": {},
+      "implementations": {}
+    }
+  },
+  "__internal": {
+    "errors": {},
+    "optionCategories": {
+      "CATEGORY_CONFIG": "Config",
+      "CATEGORY_EDITOR": "Editor",
+      "CATEGORY_FORMAT": "Format",
+      "CATEGORY_GLOBAL": "Global",
+      "CATEGORY_OTHER": "Other",
+      "CATEGORY_OUTPUT": "Output",
+      "CATEGORY_SPECIAL": "Special"
+    },
+    "formatOptionsHiddenDefaults": {
+      "astFormat": "estree",
+      "printer": {},
+      "locStart": null,
+      "locEnd": null,
+      "getVisitorKeys": null
+    },
+    "vnopts": {
+      "apiDescriptor": {}
+    },
+    "picocolors": {
+      "isColorSupported": false
+    },
+    "utilities": {}
+  },
+  "doc": {
+    "builders": {
+      "line": {
+        "type": "line"
+      },
+      "softline": {
+        "type": "line",
+        "soft": true
+      },
+      "hardline": [
+        {
+          "type": "line",
+          "hard": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "literalline": [
+        {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        },
+        {
+          "type": "break-parent"
+        }
+      ],
+      "lineSuffixBoundary": {
+        "type": "line-suffix-boundary"
+      },
+      "cursor": {
+        "type": "cursor"
+      },
+      "breakParent": {
+        "type": "break-parent"
+      },
+      "trim": {
+        "type": "trim"
+      },
+      "hardlineWithoutBreakParent": {
+        "type": "line",
+        "hard": true
+      },
+      "literallineWithoutBreakParent": {
+        "type": "line",
+        "hard": true,
+        "literal": true
+      }
+    },
+    "default": {
+      "builders": {
+        "line": {
+          "type": "line"
+        },
+        "softline": {
+          "type": "line",
+          "soft": true
+        },
+        "hardline": [
+          {
+            "type": "line",
+            "hard": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "literalline": [
+          {
+            "type": "line",
+            "hard": true,
+            "literal": true
+          },
+          {
+            "type": "break-parent"
+          }
+        ],
+        "lineSuffixBoundary": {
+          "type": "line-suffix-boundary"
+        },
+        "cursor": {
+          "type": "cursor"
+        },
+        "breakParent": {
+          "type": "break-parent"
+        },
+        "trim": {
+          "type": "trim"
+        },
+        "hardlineWithoutBreakParent": {
+          "type": "line",
+          "hard": true
+        },
+        "literallineWithoutBreakParent": {
+          "type": "line",
+          "hard": true,
+          "literal": true
+        }
+      },
+      "printer": {},
+      "utils": {}
+    },
+    "printer": {},
+    "utils": {}
+  },
+  "util": {},
+  "version": "3.7.4"
+}
+["WARN" - 00:55:56] Unable to resolve ignore path: .prettierignore for /home/lucky/.config/waybar/config.jsonc
+["INFO" - 00:55:56] Resolved plugins:
+[]
+["INFO" - 00:55:56] File Info:
+{
+  "ignored": false,
+  "inferredParser": "jsonc"
+}
+["INFO" - 00:55:56] Using VS Code configuration
+["INFO" - 00:55:56] Prettier Options:
+{
+  "arrowParens": "always",
+  "bracketSpacing": true,
+  "endOfLine": "lf",
+  "htmlWhitespaceSensitivity": "css",
+  "insertPragma": false,
+  "singleAttributePerLine": false,
+  "bracketSameLine": false,
+  "jsxBracketSameLine": false,
+  "jsxSingleQuote": false,
+  "printWidth": 80,
+  "proseWrap": "preserve",
+  "quoteProps": "as-needed",
+  "requirePragma": false,
+  "semi": true,
+  "singleQuote": false,
+  "tabWidth": 2,
+  "trailingComma": "all",
+  "useTabs": false,
+  "embeddedLanguageFormatting": "auto",
+  "vueIndentScriptAndStyle": false,
+  "experimentalTernaries": false,
+  "objectWrap": "preserve",
+  "experimentalOperatorPosition": "end",
+  "filepath": "/home/lucky/.config/waybar/config.jsonc",
+  "parser": "jsonc"
+}
+["INFO" - 00:55:56] Formatting completed in 39ms.
+["INFO" - 00:58:51] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:58:51] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 00:59:13] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 00:59:13] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:03:05] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:03:05] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:05:34] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:05:34] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:21:37] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:21:37] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:21:58] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:21:58] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:22:02] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:22:02] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:22:05] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:22:05] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:22:13] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:22:13] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:22:16] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:22:16] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:22:25] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:22:25] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:24:23] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:24:23] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:36:59] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:36:59] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:41:56] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:41:56] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:41:58] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:41:58] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:42:07] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:42:07] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:42:26] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:42:26] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
+["INFO" - 01:42:33] EditorConfig support is enabled, checking for .editorconfig files
+["INFO" - 01:42:33] No local configuration (i.e. .prettierrc or .editorconfig) detected, will fall back to VS Code configuration
