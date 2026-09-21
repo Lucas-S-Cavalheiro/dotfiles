@@ -39,8 +39,8 @@ Se quiser testar ou aplicar este setup em uma nova máquina Arch Linux, execute 
 
 ```bash
 # 1. Clone o repositório
-git clone [https://github.com/SEU-USUARIO/dotfiles.git](https://github.com/SEU-USUARIO/dotfiles.git)
-cd dotfiles
+git clone https://github.com/Lucas-S-Cavalheiro/dotfiles.git ~/dotfiles
+cd ~/dotfiles
 
 # 2. Dê permissão de execução ao script
 chmod +x install.sh
